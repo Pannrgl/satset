@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.623ee96e.css",
+    "main.js": "/static/js/main.97dd1267.js",
+    "static/media/AtypDisplayBoldItalic.ttf": "/static/media/AtypDisplayBoldItalic.c53b6e60cbc9c7f6e0f9.ttf",
+    "static/media/AtypDisplayItalic.ttf": "/static/media/AtypDisplayItalic.d57d9b8e20cc77ffa4b9.ttf",
+    "static/media/AtypDisplaySemiboldItalic.ttf": "/static/media/AtypDisplaySemiboldItalic.96b39dfbe4c3f6a779cd.ttf",
+    "static/media/AtypDisplayMediumItalic.ttf": "/static/media/AtypDisplayMediumItalic.e6af68ab6952fdcf6b08.ttf",
+    "static/media/AtypDisplayBold.ttf": "/static/media/AtypDisplayBold.acd45d492d4113d1bd54.ttf",
+    "static/media/AtypDisplayLightItalic.ttf": "/static/media/AtypDisplayLightItalic.f4b3693881c4fc22fe71.ttf",
+    "static/media/AtypDisplaySemibold.ttf": "/static/media/AtypDisplaySemibold.e1747ef61d8e3dd2f83f.ttf",
+    "static/media/AtypDisplayRegular.ttf": "/static/media/AtypDisplayRegular.5f86c45ccafe4bc339ea.ttf",
+    "static/media/AtypDisplayMedium.ttf": "/static/media/AtypDisplayMedium.3f7d6d43b083c7d491db.ttf",
+    "static/media/AtypDisplayThinItalic.ttf": "/static/media/AtypDisplayThinItalic.f0df6539a7c2688af44b.ttf",
+    "static/media/AtypDisplayLight.ttf": "/static/media/AtypDisplayLight.f91ba76f5f3d5746dea7.ttf",
+    "static/media/AtypDisplayThin.ttf": "/static/media/AtypDisplayThin.9b9fd93dbf0f53a2d649.ttf",
+    "index.html": "/index.html",
+    "main.623ee96e.css.map": "/static/css/main.623ee96e.css.map",
+    "main.97dd1267.js.map": "/static/js/main.97dd1267.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.623ee96e.css",
+    "static/js/main.97dd1267.js"
+  ]
+}
